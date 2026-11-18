@@ -1,0 +1,14 @@
+/Users/hashem/RiderProjects/Bank/Bank/bin/Debug/net10.0/Bank
+/Users/hashem/RiderProjects/Bank/Bank/bin/Debug/net10.0/Bank.deps.json
+/Users/hashem/RiderProjects/Bank/Bank/bin/Debug/net10.0/Bank.runtimeconfig.json
+/Users/hashem/RiderProjects/Bank/Bank/bin/Debug/net10.0/Bank.dll
+/Users/hashem/RiderProjects/Bank/Bank/bin/Debug/net10.0/Bank.pdb
+/Users/hashem/RiderProjects/Bank/Bank/obj/Debug/net10.0/Bank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hashem/RiderProjects/Bank/Bank/obj/Debug/net10.0/Bank.AssemblyInfoInputs.cache
+/Users/hashem/RiderProjects/Bank/Bank/obj/Debug/net10.0/Bank.AssemblyInfo.cs
+/Users/hashem/RiderProjects/Bank/Bank/obj/Debug/net10.0/Bank.csproj.CoreCompileInputs.cache
+/Users/hashem/RiderProjects/Bank/Bank/obj/Debug/net10.0/Bank.dll
+/Users/hashem/RiderProjects/Bank/Bank/obj/Debug/net10.0/refint/Bank.dll
+/Users/hashem/RiderProjects/Bank/Bank/obj/Debug/net10.0/Bank.pdb
+/Users/hashem/RiderProjects/Bank/Bank/obj/Debug/net10.0/Bank.genruntimeconfig.cache
+/Users/hashem/RiderProjects/Bank/Bank/obj/Debug/net10.0/ref/Bank.dll
